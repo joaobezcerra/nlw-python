@@ -1,5 +1,5 @@
 from cerberus import Validator
-
+ 
 body = {
     "data": {
         "elemento1": 123,
